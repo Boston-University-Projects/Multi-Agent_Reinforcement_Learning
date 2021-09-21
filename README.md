@@ -72,6 +72,11 @@ Note: Here are a list of great resources that I had collected, and they will exp
   - [CSDN 博客](https://so.csdn.net/so/search?q=reinforcement%20learning&t=&u=&utm_term=reinforcement%20learning&utm_medium=distribute.pc_toolbar_associateword.none-task-associate_word-opensearch_query-1-%3Cem%3Ereinforcement%3C%2Fem%3E%20learning.nonecase&depth_1-utm_source=distribute.pc_toolbar_associateword.none-task-associate_word-opensearch_query-1-%3Cem%3Ereinforcement%3C%2Fem%3E%20learning.nonecase&request_id=163203433916780269880564&opensearch_request_id=163203433916780269880564)
   - DeepMind – RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning, [[YouTube Video](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)], [[Website](https://www.davidsilver.uk/teaching/)]
   - CS 285 at UC Berkeley, Deep Reinforcement Learning, [[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa20/)], [[Video](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)]
+  - Steve Brunton
+    - [Linear Algebra, 107 series of short 10 min video](https://www.youtube.com/watch?v=aHCyHbRIz44&list=PLMrJAkhIeNNRjxJ_sMtJ02geqw_-vuB7O&index=1)
+    - [Control Bootcamp: Overview, 47 Series of 15-20 min vide](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+      - [Deep Reinforcement Learning: Neural Networks for Learning Control Laws](https://www.youtube.com/watch?v=IUiKAD6cuTA&list=RDCMUCm5mt-A4w61lknZ9lCsZtBw&start_radio=1&rv=IUiKAD6cuTA&t=26)
+      - Deep Reinforcement Learning for Fluid Dynamics and Control
 
 - Essential Concept/Methodologies: (Summarized in [Google Docs](https://docs.google.com/document/d/15fNROr4dFXfNl95aA0ONtwxhjZ_QwqlWTocAQEK65NE/edit?usp=sharing))
   - MDP(Markov Decision Process)
