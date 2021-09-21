@@ -49,16 +49,23 @@ To show the understanding, I think I either should have a paper being published,
 
 First, we need to decided the type of paper we want to publish (At least, we should give them a reason to accept our paper right?)
 
-- Type of Journel/Conference paper
-  - Research Paper -- Invent a innocative algorithm that can be applied to certain field, and the result should be competitve to the current SOTA(not necessary outmatch them, but should outperform the traditional algorithm that invented in the past);
-  - Review Article -- A comprehensive overview of current major works. (I saw most of paper has 70-80 pages)
-  - and ??
-
-
-### Q&A:
+- Q&A:
 Q1: Research paper? Is that means I need to invent something that is really important and impactful? and making people believe my invention is useful to other scientist? ==> And, is that possible to be done in a year? ==> I feel it's very unlikely.
 
 Q2: Review paper? ==> I heard some publication will accept some review paper, but I do not sure that boundary between "reject" and "accept", and I also do not sure if Chap2 will be enough for a Review paper.  Overall, I think this one is more doable given the amount of times that I have. (--> I imagine I will only have half year in getting the result, and another half year to analyze thhe result,  writing the report, and presentation all kinda stuff). 
+
+- Review Paper vs Research Paper
+  - Research Paper -- Invent a innocative algorithm that can be applied to certain field, and the result should be competitve to the current SOTA(not necessary outmatch them, but should outperform the traditional algorithm that invented in the past);
+  - Review Article -- A comprehensive overview of current major works. (I saw most of paper has 70-80 pages)
+  - Reference: 
+    - [Q: What is the difference between a research paper and a review paper? ](https://www.editage.com/insights/what-is-the-difference-between-a-research-paper-and-a-review-paper)
+
+
+==> So, it's more likely we are going to write an Review Paper!
+
+
+- Journel VS Conference paper
+
 
 
 
