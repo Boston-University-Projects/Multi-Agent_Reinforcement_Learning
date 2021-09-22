@@ -2,7 +2,7 @@
 # Multi-Agent_Reinforcement_Learning
 
  Goal: To get a job at Mitsubishi Electric Research Laboratories and a publication for Master Thesis!
- 
+
 
 
 # Plan Outline
@@ -49,12 +49,15 @@ To show the understanding, I think I either should have a paper being published,
 
 First, we need to decided the type of paper we want to publish (At least, we should give them a reason to accept our paper right?)
 
-- Q&A:
+
+
+#### Q: What is the difference between a research paper and a review paper? 
+
 Q1: Research paper? Is that means I need to invent something that is really important and impactful? and making people believe my invention is useful to other scientist? ==> And, is that possible to be done in a year? ==> I feel it's very unlikely.
 
 Q2: Review paper? ==> I heard some publication will accept some review paper, but I do not sure that boundary between "reject" and "accept", and I also do not sure if Chap2 will be enough for a Review paper.  Overall, I think this one is more doable given the amount of times that I have. (--> I imagine I will only have half year in getting the result, and another half year to analyze thhe result,  writing the report, and presentation all kinda stuff). 
 
-- Review Paper vs Research Paper
+- **Review Paper** vs **Research Paper**
   - Research Paper -- Invent a innocative algorithm that can be applied to certain field, and the result should be competitve to the current SOTA(not necessary outmatch them, but should outperform the traditional algorithm that invented in the past);
   - Review Article -- A comprehensive overview of current major works. (I saw most of paper has 70-80 pages)
   - Reference: 
@@ -63,14 +66,50 @@ Q2: Review paper? ==> I heard some publication will accept some review paper, bu
 
 ==> So, it's more likely we are going to write an Review Paper!
 
+However, there are several types of **review paper**:
+> 1. A narrative review explains the existing knowledge on a topic based on all the published research available on the topic. 
+> 2. A systematic review searches for the answer to a particular question in the existing scientific literature on a topic.
+> 3. A meta-analysis compares and combines the findings of previously published studies, usually to assess the effectiveness of an intervention or mode of treatment.
+> Review papers form valuable scientific literature as they summarize the findings of existing literature. So readers can form an idea about the existing knowledge on a topic without having to read all the published works in the field. Well-written review articles are popular, particularly in the field of medicine and healthcare. Most reputed journals publish review articles. However, you should check the website of the journal you wish to get published in to see if they accept such articles. If published in a good peer-reviewed journal, review articles often have a high impact and receive a lot of citations.
+> If you are new to writing research papers, I would recommend taking this course designed exclusively for early career researchers: [An in-depth academic publishing course for young researchers.](https://upskill.researcher.life/product/course-an-in-depth-academic-publishing-course-for-young-researchers/44?utm_source=website&utm_medium=internal_related_reading&utm_campaign=qa)  -- [Q: What is the difference between a research paper and a review paper?](https://www.editage.com/insights/what-is-the-difference-between-a-research-paper-and-a-review-paper)
 
-- Journel VS Conference paper
+- Narrative Review paper: focus on certain challenge, analysis, provides more summarized and valuable scientific insight and analysis. Here is an example:
+
+- [Haptic Feedback in Robot-Assisted Minimally Invasive Surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2701448/), [[Paper link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2701448/pdf/nihms-92282.pdf)]  ==> Because this paper mainly focuses on the explanation of technical challenges of creating haptic feedback to the surgeon and their evaluation result. ==> A narrative review explains the existing knowledge and provides more insight for other researchers.
+
+
+- Systematic Review Paper: Just let’s see an example:
+
+  - Prevalence of haptic feedback in robot-mediated surgery: a systematic review of literature, [[Paper link](https://link.springer.com/content/pdf/10.1007/s11701-017-0763-4.pdf)]  ==> The paper name clearly points out it’s a systematic review paper 
+
+soft robotic sleeve for haptic feedback during robotic-assisted surgery
+
+
+
+- Review paper: 
+  - [Haptic Feedback in Robot-Assisted Minimally Invasive Surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2701448/), [[Paper link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2701448/pdf/nihms-92282.pdf)]  ==> Because this paper mainly focuses on the explanation of technical challenges of creating haptic feedback to the surgeon and their evaluation result. ==> A narrative review explains the existing knowledge and provides more insight for other researchers. 
+  - Prevalence of haptic feedback in robot-mediated surgery: a systematic review of literature, [[Paper link](https://link.springer.com/content/pdf/10.1007/s11701-017-0763-4.pdf)] ==> The paper name clearly points out it’s a systematic review paper, so it's a review paper
+- Research Journal Paper: 
+  - [Application of Haptic Feedback to Robotic Surgery](https://www.liebertpub.com/doi/abs/10.1089/1092642041255441?casa_token=4SokfONIAEoAAAAA:dHKpLIxZw7urrIVC0uNSaNpcRHjM4x2ojc0Dpw38mYt3RHlMcEB9muVCseYkpE_vQXlgqWVNhA), [[Paper Link](https://www-liebertpub-com.ezproxy.bu.edu/doi/pdf/10.1089/1092642041255441)]==> I will say it's a journal research paper. But, it declared itself to be a technical report, and it only just proposed a hypothesis and not any original 
+  - A Soft-Robotic End-Effector for Independently Actuating Endoscopic Catheters, [[Paper Link](https://mecheng.iisc.ac.in/~asitava/Ashwin-JMR-19-final.pdf)] ==> This paper provides original research on designing, modeling and testing a prototype endoscopic catheters
+
+- Research Conference paper
+  - [A Simple Electric Soft Robotic Gripper with High-Deformation Haptic Feedback ](https://ieeexplore.ieee.org/document/8794098), [[Paper link](https://ieeexplore-ieee-org.ezproxy.bu.edu/stamp/stamp.jsp?tp=&arnumber=8794098)] ==> This paper is published at 2019 International Conference on Robotics and Automation (ICRA) Conference, so...
+
+#### Q: Journal VS Conference paper
+
+Let’s just see some example:
+
+- Journal Research Paper: Published on a journal
+  - A Soft-Robotic End-Effector for Independently Actuating Endoscopic Catheters, [[Paper Link](https://mecheng.iisc.ac.in/~asitava/Ashwin-JMR-19-final.pdf)] ==> This paper provides original research on designing, modeling and testing a prototype endoscopic catheters
+- Conference paper: Published on a conference
+  - 
 
 
 
 
 # Learning Material(Book, Video, Tutorial, Paper, Online Courses, etc.)
---- 
+---
 Note: Here are a list of great resources that I had collected, and they will expedite my step for understanding this in the field of MARL. 
 
 
