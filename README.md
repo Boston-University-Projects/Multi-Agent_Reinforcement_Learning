@@ -131,7 +131,7 @@ Let’s just see some example:
 
 # Learning Material(Book, Video, Tutorial, Paper, Online Courses, etc.)
 ---
-Note: Here are a list of great resources that I had collected, and they will expedite my step for understanding this in the field of MARL. 
+Note: Here are a list of great resources that I had collected, and they will expedite my step for understanding this in the field of MARL.   
 
 
 - Intro:
