@@ -166,6 +166,7 @@ Note: Here are a list of great resources that I had collected, and they will exp
   - [Algorithms for Reinforcement Learning(98)](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 - Paper
   - [2021] [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/pdf/1911.10635.pdf)
+  - [2015] [A Comprehensive Survey on Safe Reinforcement Learning](https://www.jmlr.org/papers/volume16/garcia15a/garcia15a.pdf)
   - [Cooperative Multi-Agent Learning: The State of the Art](https://cs.gmu.edu/~lpanait/papers/panait05cmasl.pdf)
   - [Robust Constrained-MDPs: Soft-Constrained Robust
     Policy Optimization under Model Uncertainty](https://arxiv.org/pdf/2010.04870.pdf)
@@ -178,6 +179,8 @@ Note: Here are a list of great resources that I had collected, and they will exp
 - People
   - BU Calin Belta, 
     - Chuangchuang Sun, Xiao Li, Calin Belta, [Automata Guided Semi-Decentralized  Multi-Agent Reinforcement Learning](https://sites.bu.edu/hyness/publications/), American Control Conference (ACC), Denver, CO, USA, 2020
+  - [Ashok Cutkosky](https://ashok.cutkosky.com/)
+    - Dynamic Balancing for Model Selection in Bandits and RL, https://proceedings.mlr.press/v139/cutkosky21a.html
 
 
 
